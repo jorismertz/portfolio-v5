@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Great Sailor";
+  src: url("/font/GreatSailor.otf");
+}
+
+@layer base {
+  body {
+    @apply overflow-x-hidden;
+    transition: background 0.6s ease-in-out;
+  }
+}
+
+h1 {
+  @apply font-greatsailor;
+}
