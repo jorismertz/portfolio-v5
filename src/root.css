@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "Great Sailor";
-  src: url("/font/GreatSailor.otf");
+  src: url("/font/GreatSailor.woff2");
 }
 
 @layer base {
