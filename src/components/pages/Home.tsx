@@ -32,7 +32,7 @@ export default function Home() {
                 easing: "ease",
               }}
             >
-              <img class="w-52" src="/images/foto.jpg" alt="" />
+              <img class="w-52" src="/images/foto-optimized.avif" alt="" />
               <section class="p-8">
                 <h1 class="text-2xl text-cranberry-600">
                   Hi, my name is Joris
